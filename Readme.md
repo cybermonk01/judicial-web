@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-1-red)
 
-## Project-1 [live Link](https://trenduix.netlify.app/)
+## Project-1 [live Link](https://judgeuix.netlify.app/)
 
 **Name:** Ashutosh Singh
 
